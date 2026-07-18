@@ -43,5 +43,5 @@ I am a BSc(Hons) Computer Science graduate at the Informatics Institute of Techn
 ---
 
 ### 🤝 Connect with Me
-- 💼 **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-- ✉️ **Email:** your.email@example.com
+- 💼 **LinkedIn:** [linkedin.com/in/yourprofile]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/nilupul-nakandala-225a67256))
+- ✉️ **Email:** nilupulnakandala@gmail.com
